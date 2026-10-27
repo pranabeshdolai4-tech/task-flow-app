@@ -4,8 +4,8 @@
 [Briefly describe what your project does, its goals, and key features.]
 
 ## Repository Details
-- **Repository Name:** [Your Repository Name]
-- **Project Name:** [Your Project Name]
+- **Repository Name:** [task-flow-app]
+- **Project Name:** [Task Flow App]
 
 ## Table of Contents
 - [Installation](#installation)
